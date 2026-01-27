@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "analytics.strava.com",
+        "blzddist1-a.akamaihd.net",
+        "cdn.angruo.com",
+        "cdn.lilyemby.com",
+        "client.amplifi.com",
+        "download.jetbrains.com",
+        "download.microsoft.com",
+        "images-cn.ssl-images-amazon.com",
+        "ip.istatmenus.app",
+        "kc.kexinshe.com",
+        "ntservicepack.microsoft.com",
+        "origin-a.akamaihd.ne",
+        "origin-a.akamaihd.net",
+        "smart.uhdnow.com",
+        "sms.imagetasks.com",
+        "steamcommunity-a.akamaihd.net",
+        "tx.lilyemby.com",
+        "weixin.com",
+        "www.libvideo.com",
+        "www.yxssp.com"
+      ],
+      "domain_suffix": [
+        "freyparts.cn",
+       "apbenben.com",
+       "cassmall.com",
+      "jiqirenai.com",
+      "huiparts.com",
+      "dgjapp.com",
+      "51zuhuobao.com",
+      "qipeilong.cn",
+      "qixiubao.cn",
+      "51cjml.com",
+      "f6car.com",
+      "tecalliance.cn",
+      "etc-parts.com",
+       "xinmapei.com"
+      ]
+    }
+  ]
+}
